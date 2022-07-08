@@ -1,0 +1,18 @@
+{
+  "name": "three-seconds",
+  "version": "1.0.0",
+  "description": "pratice for three-seconds",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node index.ts"
+  },
+  "keywords": [
+    "practice"
+  ],
+  "author": "suge",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^17.0.40"
+  }
+}
